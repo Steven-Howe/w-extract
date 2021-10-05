@@ -1,7 +1,7 @@
 ```usage: w-extract [-h] [-p] [-v] [-A] [-c] [-u] [-o OUTFILE] filepath
 
-w-extract creates custom wordlists by extracting pathnames (default behavior), parameter names, or parameter values from URLs   
-to aid in web discovery and exploitation efforts.
+w-extract creates custom wordlists by extracting pathnames (default behavior), parameter names, 
+or parameter values from URLs to aid in web discovery and exploitation efforts.
 
 positional arguments:
   filepath              filepath of file containing list of URLs
